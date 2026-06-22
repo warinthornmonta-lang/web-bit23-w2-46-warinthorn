@@ -168,10 +168,10 @@ a:hover{
 <?php
 
 
-$p_name = $_POST["p_name"];
+$p_km = $_POST["p_km"];
 
 
-$total = $p_name * 1000;
+$total = $p_km * 1000;
 
 
 ?>
