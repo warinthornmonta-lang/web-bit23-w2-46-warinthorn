@@ -181,7 +181,7 @@ $total = $p_km * 1000;
 
 🚗 กิโลเมตร : 
 
-<?php echo $p_name; ?>
+<?php echo $p_km; ?>
 
 กิโลเมตร
 
